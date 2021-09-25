@@ -1,0 +1,19 @@
+path: ../datasets/cmr
+train: images/train
+val: images/val
+
+nc: 12
+names: [
+    'CBreaker',
+    'Disconnector',
+    'GroundDisconnector',
+    'Transformer2',
+    'Transformer3',
+    'Capacitor',
+    'Reactor',
+    'Bus',
+    'ACLineEnd',
+    'SVG',
+    'Generator',
+    'Text',
+]
